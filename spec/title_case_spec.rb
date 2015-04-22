@@ -1,4 +1,4 @@
-require('spec')
+require('rspec')
 require('./lib/title_case')
 
 describe('String#title_case') do
